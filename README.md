@@ -9,3 +9,13 @@ a light-weight desktop pomodoro timer app which makes you more productive
 
 <h3>Tools & Technologies:</h3>
 <li> TKinter </li>
+
+<h3>How to Run the App(on MacOS):</h3>
+<li> Clone the entire repo </li>
+<li> Open your Terminal: </li>
+
+```
+$cd <path of the cloned repo>
+$python main.py
+```
+
