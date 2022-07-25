@@ -11,12 +11,11 @@ a light-weight desktop pomodoro timer app which makes you more productive
 <li> TKinter </li>
 
 <h3>How to Run the App(on MacOS):</h3>
-<li> Clone the entire repo </li>
-<li> Open your Terminal: </li>
+<li> Run the command line: </li>
 
 ```sh
-$ git clone https://github.com/midnamic912/Pomodoro-Timer.git
-$ cd Pomodoro-Timer
-$ python main.py
+git clone https://github.com/midnamic912/Pomodoro-Timer.git
+cd Pomodoro-Timer
+python main.py
 ```
 
