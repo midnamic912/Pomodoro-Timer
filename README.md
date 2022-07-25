@@ -16,7 +16,7 @@ a light-weight desktop pomodoro timer app which makes you more productive
 
 ```sh
 $ git clone https://github.com/midnamic912/Pomodoro-Timer.git
-$ cd <path of the cloned repo>
+$ cd Pomodoro-Timer
 $ python main.py
 ```
 
