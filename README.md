@@ -14,8 +14,9 @@ a light-weight desktop pomodoro timer app which makes you more productive
 <li> Clone the entire repo </li>
 <li> Open your Terminal: </li>
 
-```
-$cd <path of the cloned repo>
-$python main.py
+```sh
+$ git clone https://github.com/midnamic912/Pomodoro-Timer.git
+$ cd <path of the cloned repo>
+$ python main.py
 ```
 
