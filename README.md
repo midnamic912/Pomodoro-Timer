@@ -1,7 +1,7 @@
 # Pomodoro-Timer
 a light-weight desktop pomodoro timer app which makes you more productive
 
-<img src="https://i.imgur.com/NrR243C.png" width="500">
+<img src="https://i.imgur.com/0dq7aJg.png" width="500">
 
 <h3>Features:</h3>
 <li> A cute, simple and light-weight desktop pomodoro-timer app which makes you more concentrated and productive. </li>
